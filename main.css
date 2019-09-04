@@ -13,7 +13,7 @@ body {
 }
 
 a{
-  position: relative;
+  position: absolute;
   display: inline-block;
   padding: 15px 30px;
   color: #2196f3;
@@ -21,7 +21,6 @@ a{
   letter-spacing: 4px;
   text-decoration: none;
   font-size: 24px;
-  text-align: center;
   overflow: hidden;
   transition: .2s;
 }
