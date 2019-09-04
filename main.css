@@ -23,6 +23,7 @@ a{
   font-size: 24px;
   overflow: hidden;
   transition: .2s;
+  width: auto;
 }
 
 a:hover{
