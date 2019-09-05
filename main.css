@@ -20,20 +20,20 @@ a{
   position: absolute;
   
   padding: 15px 30px;
-  color: #00FFFF;
+  color: #008B8B;
   text-transform: uppercase;
   letter-spacing: 4px;
   text-decoration: none;
   font-size: 24px;
   overflow: hidden;
-  transition: .2s;
+  transition: .1s;
 }
 
 a:hover{
   color: #000000;
   background: #00FFFF;
-  box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
-  transition-delay: 1s;
+  box-shadow: 0 0 10px #00FFFF, 0 0 40px #00FFFF, 0 0 80px #00FFFF;
+  transition-delay: .5s;
 }
 
 a span{
@@ -51,7 +51,7 @@ a span:nth-child(1){
 
 a:hover span:nth-child(1){
   left: 100%;
-  transition: 1s;
+  transition: .5s;
 }
 
 a span:nth-child(3){
@@ -64,8 +64,8 @@ a span:nth-child(3){
 
 a:hover span:nth-child(3){
   right: 100%;
-  transition: 1s;
-  transition-delay: .5s;
+  transition: .5s;
+  transition-delay: .25s;
 }
 
 a span:nth-child(2){
@@ -78,8 +78,8 @@ a span:nth-child(2){
 
 a:hover span:nth-child(2){
   top: 100%;
-  transition: 1s;
-  transition-delay: .25s;
+  transition: .5s;
+  transition-delay: .125s;
 }
 
 a span:nth-child(4){
@@ -92,8 +92,8 @@ a span:nth-child(4){
 
 a:hover span:nth-child(4){
   bottom: 100%;
-  transition: 1s;
-  transition-delay: .75s;
+  transition: .5s;
+  transition-delay: .375s;
 }
 /*
 .btn {
