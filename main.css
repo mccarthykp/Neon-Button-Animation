@@ -17,8 +17,8 @@ a{
   left: 50%;
   transform: translate(-50%,-50%);
   font-family: monospace;
-  position: relative;
-  display: inline-block;
+  position: absolute;
+  
   padding: 15px 30px;
   color: #00FFFF;
   text-transform: uppercase;
