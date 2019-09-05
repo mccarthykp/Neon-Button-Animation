@@ -18,7 +18,6 @@ a{
   transform: translate(-50%,-50%);
   font-family: monospace;
   position: absolute;
-  
   padding: 15px 30px;
   color: #008B8B;
   text-transform: uppercase;
@@ -95,17 +94,7 @@ a:hover span:nth-child(4){
   transition: .5s;
   transition-delay: .375s;
 }
-/*
-.btn {
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%,-50%);
-  position: absolute;
-  overflow: hidden;
-  font-family: monospace;
-  font-size: 24px;
-}
-*/
+
 .footer {
   top: 95%;
   left: 50%;
