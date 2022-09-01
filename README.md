@@ -14,7 +14,7 @@ docker build -t <username>/neon-button-animation .
 ```
 
 ### 2. Run the Container
-## -d runs the container in detached mode
+<strong>-d</strong> runs the container in detached mode
 ```bash
 docker run -p 5003:5003 -d <username>/neon-button-animation
 ```
