@@ -1,0 +1,25 @@
+{
+  "name": "neon-button-animation",
+  "version": "1.0.0",
+  "description": "animated css button",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mccarthykp/Neon-Button-Animation.git"
+  },
+  "author": "Kevin McCarthy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mccarthykp/Neon-Button-Animation/issues"
+  },
+  "homepage": "https://github.com/mccarthykp/Neon-Button-Animation#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.0"
+  }
+}
